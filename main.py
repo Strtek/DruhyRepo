@@ -1,3 +1,3 @@
 print("Hello World!")
-jmeno = input("Jak se jmenuješ?")
+jmeno = input("Ahoj řekni mi jak se jmenuješ?")
 print("Ahoj", jmeno)
